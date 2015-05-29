@@ -12,6 +12,9 @@
  *});
  *{/literal}
  *</script>
+ *
+ * Remove the {literal}{/literal} commands, they are for smarty templates, which we use at 417
+ *
  */
 
 
